@@ -5,6 +5,7 @@ const test= {
     [a]: 30,
     [1 + 4]: 5,
 };
+
 console.log(test); // 왜 '5'로 출력되지?
 
 function makeObj(key, val){

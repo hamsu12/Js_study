@@ -6,6 +6,7 @@ function User(name, age){
     }
 }
 
+
 function Item(title, price){
     this.title=title;
     this.price=price;
