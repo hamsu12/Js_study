@@ -32,3 +32,9 @@ console.log(user2); // 기존 user은 Mike, 바뀐 값 Tom
 
 const result = Object.entries(user);
 console.log(result); // 키 & 값 모두 출력, 배열 안에 배열 생성
+
+let arr=[
+    ["mon","월"],["tue","화"],
+];
+const result2 = Object.fromEntries(arr);
+console.log(result2);
