@@ -12,3 +12,5 @@ arr2.forEach((name, index) => {
 let arr3=[1, 2, 3, 4, 5];
 let result3 = arr3.indexOf(3);
 console.log(result3);
+
+
