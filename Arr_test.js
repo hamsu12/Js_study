@@ -14,3 +14,5 @@ let result3 = arr3.indexOf(3);
 console.log(result3);
 
 
+
+
